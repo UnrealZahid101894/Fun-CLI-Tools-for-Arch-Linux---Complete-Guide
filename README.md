@@ -342,7 +342,7 @@ chmod +x install.sh
 ## ✨ The Ultimate Showoff Command
 
 ```bash
-clear && echo "TERMINAL FLEX" | figlet | lolcat && neofetch | lolcat && echo "" && fortune | cowsay | lolcat && cbonsai -l
+clear && echo "TERMINAL FLEX" | figlet | lolcat && echo "" && fortune | cowsay | lolcat && cbonsai -l
 ```
 
 This does everything in sequence:
